@@ -20,6 +20,6 @@ The main purpose of this project is to help bringing context collected on Sunshi
 ## Installation
 
 1. Set up a Lambda function with `index.js` and all pre-installed modules
-1. Set up all authentications on `config.json``
+1. Set up all authentications on `config.json`
 1. Implement your logic after obtaining metadata from Sunshine Conversations. You can leverage all [Zendesk Support Update Ticket API](https://developer.zendesk.com/rest_api/docs/support/tickets#update-ticket) for this
 1. Set up [AWS Events Connector](https://support.zendesk.com/hc/en-us/articles/360043496933-Setting-up-the-events-connector-for-Amazon-EventBridge#:~:text=Go%20to%20your%20Zendesk%20Admin,Web%20Services%20account%20ID%20field.) and ticket events
